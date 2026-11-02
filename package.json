@@ -1,0 +1,14 @@
+{
+  "name": "skyrush-arcade",
+  "version": "2.0.0",
+  "description": "SkyRush Pro Arcade Crash Game & Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^14.5.0",
+    "ws": "^8.16.0"
+  }
+}
